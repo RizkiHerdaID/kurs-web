@@ -14,6 +14,7 @@ class CreateKursComponent extends Component {
     };
     this.changeBankHandler = this.changeBankHandler.bind(this);
     this.changeKursJualHandler = this.changeKursJualHandler.bind(this);
+    this.changeKursBeliHandler = this.changeKursBeliHandler.bind(this);
     this.saveOrUpdateKurs = this.saveOrUpdateKurs.bind(this);
   }
 
