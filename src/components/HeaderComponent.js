@@ -25,6 +25,9 @@ class HeaderComponent extends Component {
                     <li className="nav-item">
                         <a className="nav-link" href="/erate">ERATE</a>
                     </li>
+                    <li className="nav-item">
+                        <a className="nav-link" href="/usd">USD JUAL</a>
+                    </li>
                 </ul>
             </div>
           </nav>
