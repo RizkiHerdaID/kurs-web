@@ -111,7 +111,7 @@ class CreateKursComponent extends Component {
                   <div className="form-group">
                     <label> Kurs Beli: </label>
                     <input
-                      placeholder="KursBeli"
+                      placeholder="Kurs Beli"
                       name="kurs_beli"
                       className="form-control"
                       value={this.state.kurs_beli}
